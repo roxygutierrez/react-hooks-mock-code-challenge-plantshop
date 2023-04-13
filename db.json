@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Moai",
+      "image": "https://em-content.zobj.net/thumbs/160/apple/325/moai_1f5ff.png",
+      "price": "10",
+      "id": 8
     }
   ]
 }
